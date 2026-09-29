@@ -1,0 +1,12 @@
+# Compiled files
+*.exe
+*.out
+*.o
+bank_management
+
+# Data file created by the program (may contain test/personal data)
+accounts.txt
+
+# Editor / IDE files
+.vscode/
+.idea/
